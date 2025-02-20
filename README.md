@@ -53,10 +53,10 @@ DAYS_REMAINING=2
 Modify these values as needed to change the assignment name and due date.
 
 ## How It Works
-1. The `startup.sh` script runs `reminder.sh` inside the `app` directory.
-2. `reminder.sh` loads environment variables and helper functions.
-3. It checks `assets/submissions.txt` for students who have not submitted their assignments.
-4. It prints reminders for students who need to submit their assignments.
+1. The `startup.sh` script executes`reminder.sh` within the `app` directory.
+2. `reminder.sh` loads helper functions and environment variables.
+3. It scans `assets/submissions.txt` for students who have not submitted their assignments.
+4. It generates reminders for students who haven't submitted their work.
 
 ## Sample Output
 ```
