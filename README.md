@@ -1,13 +1,13 @@
 # Submission Reminder App
 
 ## Overview
-The Submission Reminder App is a simple shell script-based application that helps track student assignment submissions and sends reminders to those who have not yet submitted their assignments.
+The Submission Reminder App is a basic shell script tool that tracks student assignment submissions and sends reminders to those who haven't submitted yet, so they know the deadline.
 
 ## Features
-- Automatically generates a structured environment for managing submissions.
-- Reads assignment submission status from a file.
-- Notifies students who have not submitted their assignments.
-- Easy-to-use script execution with minimal setup.
+- Simple script execution with minimal setup.
+- Creates a structured environment to manage submissions.
+- Reads submission status from a file.
+- Sends notifications to students who haven’t submitted their assignments.
 
 ## Directory Structure
 ```
@@ -71,4 +71,4 @@ Reminder app executed successfully!
 ```
 
 ## Author
-This project was created by Nathanaella 
+This project was created by Nathanaella Hirwa
