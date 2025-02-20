@@ -71,4 +71,4 @@ Reminder app executed successfully!
 ```
 
 ## Author
-This project was created by Nathanaella Hirwa
+This project was created by Nathanaella Hirwa.
